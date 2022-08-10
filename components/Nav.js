@@ -58,7 +58,7 @@ export default function Nav(){
                 @media (max-width: 767px){
                   
                     .hamburger{
-                        display:fixed;
+                        display:block;
                         padding-top: 10px;
                         margin-left: 10px;
                         z-index: 6;
